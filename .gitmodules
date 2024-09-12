@@ -1,0 +1,3 @@
+[submodule "TrxGNNbert"]
+	path = TrxGNNbert
+	url = https://github.com/whusjj/qkl
