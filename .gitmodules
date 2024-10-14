@@ -1,3 +1,6 @@
 [submodule "TrxGNNbert"]
 	path = TrxGNNbert
 	url = https://github.com/whusjj/qkl
+[submodule "No_Sandwich_Swap"]
+	path = No_Sandwich_Swap
+	url = git@github.com:TreapGoGo/hackathon-2024-10-13.git
